@@ -93,13 +93,6 @@ playground-series-s6e2
 ├── notebook_project.ipynb             # Main Jupyter notebook with full analysis
 ├── train.csv                          # Training dataset
 ├── test.csv                           # Test dataset
-├── sample_submission.csv              # Sample submission format
-├── submission.csv                     # Final submission file (CatBoost)
-└── catboost_info/                     # CatBoost training information
-    ├── catboost_training.json         # Training parameters and results
-    ├── learn_error.tsv                # Learning error metrics
-    ├── time_left.tsv                  # Training time information
-    └── learn/                         # TensorFlow event files
 ```
 
 ## 🚀 How to Run
